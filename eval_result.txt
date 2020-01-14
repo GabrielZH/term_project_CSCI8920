@@ -1,0 +1,13 @@
+Total episodes: 100
+Game steps per each episode: 1920
+Game steps per agent step: 8
+
+#Repetitious Games#
+RandomAgent: 17.37
+ScriptedAgent: 93.08
+MdpModelBasedAgent: 41.50
+
+#Random Games#
+RandomAgent: 17.61
+ScriptedAgent:92.76
+MdpModelBasedAgent: 21.03
